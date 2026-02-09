@@ -17,9 +17,13 @@ Conceptos aplicados:
 - Menú interactivo por consola
 
 MAYRA MICHELLE MORAN MEDINA
+
 TECNOLOGIAS DE LA INFORMACION
+
 SEGUNDO SEMESTRE
+
 mm.moranm@uea.edu.ec
+
 EVIDENCIAS
 <img width="1919" height="1005" alt="Captura de pantalla 2026-02-09 151107" src="https://github.com/user-attachments/assets/45388bef-3536-4877-9d02-23996d0d5572" />
 <img width="1919" height="1013" alt="Captura de pantalla 2026-02-09 151419" src="https://github.com/user-attachments/assets/05ed51f2-a2b8-4525-856b-967db3620b69" />
